@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/stake/static/css/main.bfc6b7e9.chunk.css",
+    "main.js": "/stake/static/js/main.8f48b357.chunk.js",
+    "main.js.map": "/stake/static/js/main.8f48b357.chunk.js.map",
+    "runtime-main.js": "/stake/static/js/runtime-main.134beb12.js",
+    "runtime-main.js.map": "/stake/static/js/runtime-main.134beb12.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/stake/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.a3c8d1df.chunk.js": "/stake/static/js/2.a3c8d1df.chunk.js",
+    "static/js/2.a3c8d1df.chunk.js.map": "/stake/static/js/2.a3c8d1df.chunk.js.map",
+    "index.html": "/stake/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/stake/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.bfc6b7e9.chunk.css.map": "/stake/static/css/main.bfc6b7e9.chunk.css.map",
+    "static/js/2.a3c8d1df.chunk.js.LICENSE.txt": "/stake/static/js/2.a3c8d1df.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/stake/static/media/bgniron.f3d6f159.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.134beb12.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.a3c8d1df.chunk.js",
+    "static/css/main.bfc6b7e9.chunk.css",
+    "static/js/main.8f48b357.chunk.js"
+  ]
+}
